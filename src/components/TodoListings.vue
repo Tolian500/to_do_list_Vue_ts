@@ -11,9 +11,6 @@ console.log(todos.value)
 <template>
     <section class="bg-yellow-50 px-4 py-10">
         <div class="container-xl lg:container m-auto">
-            <h2 class="text-3xl font-bold text-yellow-700 mb-6 text-center">
-                List
-            </h2>
         </div>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
 
