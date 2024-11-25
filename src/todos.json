@@ -1,21 +1,21 @@
 [
   {
     "id": "1",
-    "title": "Grocery Shopping",
+    "title": "App funcitons",
     "tasks": [
       {
         "id": "1.1",
-        "description": "Buy milk",
+        "description": "Add new list function",
         "status": "Pending"
       },
       {
         "id": "1.2",
-        "description": "Pick up bread",
+        "description": "All list page",
         "status": "Completed"
       },
       {
         "id": "1.3",
-        "description": "Get fresh vegetables",
+        "description": "Clone list",
         "status": "Pending"
       },
       {

@@ -8,5 +8,5 @@ import TodoListings from './components/TodoListings.vue'
 <template>
   <Navbar />
   <Hero />
-  <TodoListings />
+  <TodoListings :limit="3" :showButton="true"/>
 </template>
