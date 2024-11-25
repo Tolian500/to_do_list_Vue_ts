@@ -17,7 +17,7 @@ console.log(todos.value)
         </div>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
 
-            <TodoListing v-for="todo in todos" :key="todo.id"/>
+            <TodoListing v-for="todo in todos" :key="todo.id" :todo="todo"/>
         </div>
     </section>
 </template>
