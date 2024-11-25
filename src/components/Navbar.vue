@@ -43,7 +43,7 @@
       </div>
     </nav> -->
 
-    <nav class="bg-yellow-500 border-b border-yellow-100">
+    <nav class="bg-yellow-700 border-b border-yellow-900">
       <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
         <div class="flex h-20 items-center justify-between">
           <div
@@ -54,12 +54,12 @@
               <div class="flex space-x-2">
                 <a
                   href="index.html"
-                  class="text-white bg-yellow-700 hover:bg-gray-900 hover:text-white rounded-md px-3 py-2"
+                  class="text-white bg-yellow-800 hover:bg-yellow-900 hover:text-white rounded-md px-3 py-2"
                   >Home</a
                 >
                 <a
                   href="add-job.html"
-                  class="text-white hover:bg-yellow-700 hover:text-white rounded-md px-3 py-2"
+                  class="text-white hover:bg-yellow-900 hover:text-white rounded-md px-3 py-2"
                   >Add To-Do List</a
                 >
               </div>
