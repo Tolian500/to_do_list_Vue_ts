@@ -1,141 +1,51 @@
 [
   {
     "id": "1",
-    "title": "App funcitons",
+    "title": "App functions",
     "tasks": [
       {
         "id": "1.1",
-        "description": "Add new list function",
-        "status": "Pending"
+        "description": "Add new tasks with a title.",
+        "status": "Completed"
       },
       {
         "id": "1.2",
-        "description": "All list page",
+        "description": "Mark tasks as completed.",
         "status": "Completed"
       },
       {
         "id": "1.3",
-        "description": "Clone list",
-        "status": "Pending"
+        "description": "Delete tasks from the list.",
+        "status": "Completed"
       },
       {
         "id": "1.4",
-        "description": "Purchase eggs",
-        "status": "Pending"
-      }
-    ]
-  },
-  {
-    "id": "2",
-    "title": "Work Tasks",
-    "tasks": [
-      {
-        "id": "2.1",
-        "description": "Prepare presentation for Monday meeting",
-        "status": "In Progress"
-      },
-      {
-        "id": "2.2",
-        "description": "Reply to client emails",
-        "status": "Pending"
-      },
-      {
-        "id": "2.3",
-        "description": "Submit project report",
-        "status": "Completed"
-      }
-    ]
-  },
-  {
-    "id": "3",
-    "title": "Home Maintenance",
-    "tasks": [
-      {
-        "id": "3.1",
-        "description": "Fix the leaking faucet",
-        "status": "Pending"
-      },
-      {
-        "id": "3.2",
-        "description": "Clean the garage",
-        "status": "Pending"
-      },
-      {
-        "id": "3.3",
-        "description": "Mow the lawn",
+        "description": "Use TypeScript for type safety.",
         "status": "Completed"
       },
       {
-        "id": "3.4",
-        "description": "Replace lightbulbs in the kitchen",
-        "status": "In Progress"
-      }
-    ]
-  },
-  {
-    "id": "4",
-    "title": "Fitness Goals",
-    "tasks": [
-      {
-        "id": "4.1",
-        "description": "Go for a morning run",
+        "id": "1.5",
+        "description": "Display the list of tasks dynamically.",
         "status": "Completed"
       },
       {
-        "id": "4.2",
-        "description": "Complete yoga session",
-        "status": "Pending"
-      },
-      {
-        "id": "4.3",
-        "description": "Drink 2 liters of water",
-        "status": "In Progress"
-      }
-    ]
-  },
-  {
-    "id": "5",
-    "title": "Travel Preparation",
-    "tasks": [
-      {
-        "id": "5.1",
-        "description": "Book flight tickets",
+        "id": "1.6",
+        "description": "Keep new task component and list component separately.",
         "status": "Completed"
       },
       {
-        "id": "5.2",
-        "description": "Reserve hotel room",
-        "status": "Pending"
+        "id": "1.7",
+        "description": "Use reactive data (ref or reactive).",
+        "status": "Completed"
       },
       {
-        "id": "5.3",
-        "description": "Pack essentials",
-        "status": "In Progress"
+        "id": "1.8",
+        "description": "Use props and emit events for communication between components.",
+        "status": "Completed"
       },
       {
-        "id": "5.4",
-        "description": "Update travel insurance",
-        "status": "Pending"
-      }
-    ]
-  },
-  {
-    "id": "6",
-    "title": "Learning Goals",
-    "tasks": [
-      {
-        "id": "6.1",
-        "description": "Complete JavaScript tutorial",
-        "status": "Pending"
-      },
-      {
-        "id": "6.2",
-        "description": "Read 20 pages of a book",
-        "status": "In Progress"
-      },
-      {
-        "id": "6.3",
-        "description": "Practice coding problems",
+        "id": "1.9",
+        "description": "Keep list and new task in separate components.",
         "status": "Completed"
       }
     ]
